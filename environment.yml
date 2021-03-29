@@ -10,17 +10,5 @@ dependencies:
     - pandas
     - thinc
     - Seaborn
-    - Statsmodels
-    - PyMC
-    - Shogun
-    - Gensim
-    - Orange
-    - PyMVPA
-    - Theano
-    - PyLearn
-    - Decaf
-    - Nolearn
-    - OverFeat
-    - Hebel
-    - Neurolab
-    
+    - PyTorch
+    - TensorFlow
