@@ -10,5 +10,4 @@ dependencies:
     - pandas
     - thinc
     - Seaborn
-    - PyTorch
     - TensorFlow
